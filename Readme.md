@@ -43,4 +43,4 @@ $ mocha test/testVerify.js
           ✓ should not verify the proof
 ```
 
-Tests are taken from (ChainShot)[https://www.chainshot.com/]
+Tests are taken from [ChainShot](https://www.chainshot.com/)
