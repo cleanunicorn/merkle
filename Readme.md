@@ -9,6 +9,11 @@ Install [mocha](https://mochajs.org/)
 npm i -g mocha
 ```
 
+Install the dependencies
+```
+npm i
+```
+
 Run test file
 ```
 mocha test/testVerify.js
