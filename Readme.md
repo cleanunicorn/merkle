@@ -16,10 +16,8 @@ npm i
 
 Run test file
 ```
-mocha test/testVerify.js
-```
+$ mocha test/testVerify.js
 
-```
   merkle proof verification
     a given merkle tree
       untampered proofs
